@@ -6,20 +6,20 @@ The E-Commerce Single-Page Application will allow consumers to browse, search, a
 
 # Tech Stack
  - Languages
-  - Java
-  - JavaScript
-  - TypeScript
+   - Java
+   - JavaScript
+   - TypeScript
  - Data Persistence
-  - PostgreSQL
-  - Hibernate
+   - PostgreSQL
+   - Hibernate
  - AWS
-  - RDS
-  - S3
-  - CodeBuild & CodePipeline
-  - ElasticBeanstalk
+   - RDS
+   - S3
+   - CodeBuild & CodePipeline
+   - ElasticBeanstalk
  - Spring Framework
-  - Spring Boot
-  - Spring MVC
+   - Spring Boot
+   - Spring MVC
  - Angular
 
 ## Forbidden Abstractions:
