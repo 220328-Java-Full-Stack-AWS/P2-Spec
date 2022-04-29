@@ -54,14 +54,14 @@ The persistence layer shall use Hibernate ORM to translate between the database 
  - As a user, I can checkout to purchase the items in my cart.
 
 ### Stretch Goals:
-As a User, I should be able to select an amount of an item to add to my cart as I am adding an item
-As a User, I should be able to search the product list to better find the item(s) I am interested in
-As a User, I should be able to see and purchase items that are on sale for a lower price.
-As a User, I should be able to see a list of featured products on the main page of the application
-As a User, my session should be maintained until I log out.
-As a User, I should be able to reset my password.
-As a User, I should be able to change the color scheme from the normal mode to a dark mode option.
-As a User, I should receive notifications when a transaction has occurred or a transfer has been completed.
+ - As a User, I should be able to select an amount of an item to add to my cart as I am adding an item
+ - As a User, I should be able to search the product list to better find the item(s) I am interested in
+ - As a User, I should be able to see and purchase items that are on sale for a lower price.
+ - As a User, I should be able to see a list of featured products on the main page of the application
+ - As a User, my session should be maintained until I log out.
+ - As a User, I should be able to reset my password.
+ - As a User, I should be able to change the color scheme from the normal mode to a dark mode option.
+ - As a User, I should receive notifications when a transaction has occurred or a transfer has been completed.
 
 # Submission
 ### Due Date: Thursday 5/26/2022 at 9:00 AM CST
